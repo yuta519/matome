@@ -1,6 +1,6 @@
 import '../../../../vendor/deps/reduxjs_toolkit.js';
 import { fetchCount } from './counterAPI.ts.js';
-import { createAsyncThunk, createSlice } from '../../../../vendor/deps/chunk-R2B5IURW.js';
+import { createAsyncThunk, createSlice } from '../../../../vendor/deps/chunk-RVXW4KGT.js';
 
 const initialState = {
   value: 0,
